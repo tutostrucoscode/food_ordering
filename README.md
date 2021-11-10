@@ -1,4 +1,4 @@
-# Notas
-- [abstract] Investigar que hace.
-- [Future] Investigar que hace.
-- [@required] Investigar que hace.
+## Informacion
+
+Sistema de comida creado con Flutter.
+
